@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gbras/static/css/main.2300e6dc.css",
+    "main.js": "/gbras/static/js/main.e57673c7.js",
+    "static/js/787.5bc6e942.chunk.js": "/gbras/static/js/787.5bc6e942.chunk.js",
+    "static/media/project3.png": "/gbras/static/media/project3.b701c3531e07a8affd6b.png",
+    "static/media/project1.png": "/gbras/static/media/project1.46a52dbf4e2de1593184.png",
+    "static/media/imgcv.jpg": "/gbras/static/media/imgcv.ad2e62989b4c837e10ab.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/gbras/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/gbras/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/gbras/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project2.png": "/gbras/static/media/project2.d646947dfba5e075a7e5.png",
+    "static/media/project5.png": "/gbras/static/media/project5.155dc3d1ed571b57d8b3.png",
+    "static/media/project4.png": "/gbras/static/media/project4.c0f847f1344629434931.png",
+    "static/media/landvector.svg": "/gbras/static/media/landvector.52b405e7937630f7c49a.svg",
+    "index.html": "/gbras/index.html",
+    "main.2300e6dc.css.map": "/gbras/static/css/main.2300e6dc.css.map",
+    "main.e57673c7.js.map": "/gbras/static/js/main.e57673c7.js.map",
+    "787.5bc6e942.chunk.js.map": "/gbras/static/js/787.5bc6e942.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2300e6dc.css",
+    "static/js/main.e57673c7.js"
+  ]
+}

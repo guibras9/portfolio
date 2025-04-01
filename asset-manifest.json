@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.852755d2.css",
+    "main.js": "/portfolio/static/js/main.409cac77.js",
+    "static/js/787.5bc6e942.chunk.js": "/portfolio/static/js/787.5bc6e942.chunk.js",
+    "static/media/project3.png": "/portfolio/static/media/project3.b701c3531e07a8affd6b.png",
+    "static/media/project1.png": "/portfolio/static/media/project1.46a52dbf4e2de1593184.png",
+    "static/media/imgcv.jpg": "/portfolio/static/media/imgcv.ad2e62989b4c837e10ab.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project2.png": "/portfolio/static/media/project2.d646947dfba5e075a7e5.png",
+    "static/media/project5.png": "/portfolio/static/media/project5.155dc3d1ed571b57d8b3.png",
+    "static/media/project4.png": "/portfolio/static/media/project4.c0f847f1344629434931.png",
+    "static/media/landvector.svg": "/portfolio/static/media/landvector.52b405e7937630f7c49a.svg",
+    "index.html": "/portfolio/index.html",
+    "main.852755d2.css.map": "/portfolio/static/css/main.852755d2.css.map",
+    "main.409cac77.js.map": "/portfolio/static/js/main.409cac77.js.map",
+    "787.5bc6e942.chunk.js.map": "/portfolio/static/js/787.5bc6e942.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.852755d2.css",
+    "static/js/main.409cac77.js"
+  ]
+}
